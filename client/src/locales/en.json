@@ -1,0 +1,67 @@
+{
+  "rechercher": "Search",
+  "language": {
+    "fr": "French",
+    "en": "English",
+    "ar": "عربي"
+  },
+ "IndexPage":{
+    "tous":"all"
+  },
+  "loginPage": {
+    "login": "Login",
+    "register": "Register Now"
+  },
+  "maison":"House",
+"appartement":"apartment",
+"magasin":"store",
+"my profile ": "my profile" ,
+"ajouter un nouvau Immobiliere":"Add a new real estate ",
+"Save":  "Save",
+"UM":"UM",
+"entree privee":"private entrance",
+"animaux":"animals",
+"Radio":"Radio",
+"Loué":"rented",
+"Tv":"Tv",
+"upload":"upload",
+"titre, par exemple : mon bel appartement":"title, for example: my beautiful apartment",
+"place de parking gratruit":"place de parking gratruit",
+"Wifi":"Wifi",
+" price per night":"price per night",
+" nomber de chamber":"number of rooms",
+"Login":"Login",
+"Register now":"Register now",
+"login successful":"login successful",
+"titre le titre de votre lieu doit etre court et accrocheur comme dans le pubilicte":"title  the title of your place should be short and catchy as in the advertisement",
+"Login failed":"Login failed",
+"have an account yet?":"have an account yet?",
+"my home":"my home",
+" Price":"Price",
+"le prix de cette maison par les mois:":" the price of this house per month ",
+"Photos  of":"Photos  of",
+"Close photos":"Close photos", 
+"my reservations":"my reservations",
+"Already a member ?":"Already a member ?",
+"adress":"address",
+"Description":"Description",
+"check In:":"check In",
+"check Out:":" check Out",
+"par Mois":"per month",
+"Images":"Pictures",
+"Sélectionnez une catégorie":"Select a category",
+"avantage":"advantage",
+"information supplementaire":"additional information",
+"par nuit":"per night ",
+"Place supprimée avec succès":"  Place deleted successfully ",
+"suppression echoué":" deletion failedé",
+"regles de la maision, ect":"house rules, etc.",
+"logout":"logout",
+"per night":"per night",
+"loged in as":"loged in as",
+"name":"name",
+"are you sure you want to delete this place?": "are you sure you want to delete this place?"
+
+
+
+ }
