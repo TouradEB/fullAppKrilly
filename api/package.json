@@ -1,4 +1,9 @@
 {
+
+
+    "scripts": {
+    "start": "nodemon run dev"
+  },
   
   "dependencies": {
     "aws-sdk": "^2.1379.0",
