@@ -1,4 +1,7 @@
 {
+    "scripts": {
+    "start": "nodemon run start"
+  },
   "dependencies": {
     "aws-sdk": "^2.1379.0",
     "bcrypt": "^5.1.0",
